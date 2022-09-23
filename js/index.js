@@ -111,7 +111,6 @@ const handleLyric = function handleLyric() {
             item.className = 'active';
             prevLyric = item;
             num++;
-            console.log(num);
             break;
         }
     }
